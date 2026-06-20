@@ -1,4 +1,4 @@
-<h1 align="center">Ömer Alper Odaman</h1>
+<h1 align="center">Alper Odaman</h1>
 
 <p align="center">
   Frontend-focused Software Developer building enterprise platforms and product workflows with <strong>React</strong>, <strong>JavaScript</strong>, <strong>Next.js</strong>, and <strong>Node.js</strong>.
