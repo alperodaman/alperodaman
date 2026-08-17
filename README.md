@@ -47,5 +47,6 @@
 
 - Email: `alperodaman@gmail.com`
 - LinkedIn: `linkedin.com/in/alperodaman`
+- Web: `alperodaman.com`
 - Location: `Ankara, Türkiye`
 - Open to backend development, frontend development, and full stack opportunities.
